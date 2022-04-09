@@ -17,3 +17,15 @@
   },
   "include": ["src/**/*.d.ts", "src/**/*.ts", "src/**/*.js", "src/**/*.svelte"]
 }
+
+
+
+
+
+solana-keygen new --outfile ~/my-solana-wallet/my-keypair.json
+
+
+
+
+
+
